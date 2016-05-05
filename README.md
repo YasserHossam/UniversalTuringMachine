@@ -16,12 +16,12 @@ How it Works ?
             b: 000
             c: 0000   and so on
   - Complete Rule : Consists of five components separated by 1's and each rule is separated from the next rule by 11
-            1- Initial/Current State
-            2- Current Input Character
-            3- State Moved to (next State)
-            4- Character Written on the tape (next Character)
-            5- Direction
-            e.g. : q0Δq1ΔR = 0010100010100011
+             - Initial/Current State
+             - Current Input Character
+             - State Moved to (next State)
+             - Character Written on the tape (next Character)
+             - Direction
+            -e.g. : q0Δq1ΔR = 0010100010100011
                    q1bq1bR = 000100010001000100011
                    q1aq2bL = 00010010000100010011
                    q1Δq2ΔL = 00010100001010011
