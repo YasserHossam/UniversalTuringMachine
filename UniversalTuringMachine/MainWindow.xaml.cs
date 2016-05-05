@@ -169,8 +169,11 @@ namespace UniversalTuringMachine
                     
                 }
                 if (currentRule.currentChar == null || currentRule.currentChar == "")
+                {
+                    MessageBox.Show("Can't Make Any Transition, Machine is in Idle State");
                     isFinished = true;
-                if (!isFinished)
+                }
+                    if (!isFinished)
                 {
                     outputs[currentIndex] = currentRule.nextChar;
                     if (currentRule.direction == "000")
