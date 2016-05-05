@@ -1,5 +1,5 @@
 # UniversalTuringMachine
-Computer Theory Course Project
+A WPF Application Simulating UniversalTuringMachine
 How it Works ?
 1- You specify a turing machine file which contain transition rules, the rules must be encoded into 0's and 1's following the next rules
   - States : if we have q0,q1 and qh (halting state) , 
@@ -35,3 +35,6 @@ How it Works ?
 
 3- Press RunMachine and the output will be printed on the TextBlock in front of you :) 
                    Notice: The output format is the same as the input format, 0's will be at the beginning and the ending of the output
+				   
+				   
+If You Want a quick Test, Please use Machine.txt and Input.txt as Input files , This Machine Should Change Left Most "a" character to "b" character assuming that a="00" and b="000"			   
