@@ -3,6 +3,38 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid VerticalAlignment="Center" Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <Button Name="chooseMachineFileButton" Grid.Row="0" Content="choose Machine File" Click="chooseMachineFileButton_Click"></Button>
+                <TextBlock Name="machineFileTextBlock" Grid.Row="1" Text="File Name" TextAlignment="Center"></TextBlock>
+            </Grid>
+            <Grid VerticalAlignment="Center" Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <Button Name="chooseInputFileButton" Grid.Row="0" Content="choose Input File" Click="chooseInputFileButton_Click"></Button>
+                <TextBlock Name="inputFileTextBlock" Grid.Row="1" Text="File Name" TextAlignment="Center"></TextBlock>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="1" VerticalAlignment="Center">
+            <Button Name="runButton" Content="runMachine" FontSize="20" Click="runButton_Click"></Button>
+        </Grid>
+        <Grid Grid.Row="2">
+            <TextBlock Name="outputTextBlock" Text="Output" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"></TextBlock>
+        </Grid>
     </Grid>
 </Window>

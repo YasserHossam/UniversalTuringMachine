@@ -1,1 +1,13 @@
 C:\Yos\FCI\4th Year\2nd Term\Computer Theory\Universal Turing Machine\UniversalTuringMachine\UniversalTuringMachine\bin\Debug\UniversalTuringMachine.exe.config
+C:\Yos\FCI\4th Year\2nd Term\Computer Theory\Universal Turing Machine\UniversalTuringMachine\UniversalTuringMachine\bin\Debug\UniversalTuringMachine.exe
+C:\Yos\FCI\4th Year\2nd Term\Computer Theory\Universal Turing Machine\UniversalTuringMachine\UniversalTuringMachine\bin\Debug\UniversalTuringMachine.pdb
+C:\Yos\FCI\4th Year\2nd Term\Computer Theory\Universal Turing Machine\UniversalTuringMachine\UniversalTuringMachine\obj\Debug\UniversalTuringMachine.csprojResolveAssemblyReference.cache
+C:\Yos\FCI\4th Year\2nd Term\Computer Theory\Universal Turing Machine\UniversalTuringMachine\UniversalTuringMachine\obj\Debug\MainWindow.baml
+C:\Yos\FCI\4th Year\2nd Term\Computer Theory\Universal Turing Machine\UniversalTuringMachine\UniversalTuringMachine\obj\Debug\MainWindow.g.cs
+C:\Yos\FCI\4th Year\2nd Term\Computer Theory\Universal Turing Machine\UniversalTuringMachine\UniversalTuringMachine\obj\Debug\App.g.cs
+C:\Yos\FCI\4th Year\2nd Term\Computer Theory\Universal Turing Machine\UniversalTuringMachine\UniversalTuringMachine\obj\Debug\UniversalTuringMachine_MarkupCompile.cache
+C:\Yos\FCI\4th Year\2nd Term\Computer Theory\Universal Turing Machine\UniversalTuringMachine\UniversalTuringMachine\obj\Debug\UniversalTuringMachine.g.resources
+C:\Yos\FCI\4th Year\2nd Term\Computer Theory\Universal Turing Machine\UniversalTuringMachine\UniversalTuringMachine\obj\Debug\UniversalTuringMachine.Properties.Resources.resources
+C:\Yos\FCI\4th Year\2nd Term\Computer Theory\Universal Turing Machine\UniversalTuringMachine\UniversalTuringMachine\obj\Debug\UniversalTuringMachine.csproj.GenerateResource.Cache
+C:\Yos\FCI\4th Year\2nd Term\Computer Theory\Universal Turing Machine\UniversalTuringMachine\UniversalTuringMachine\obj\Debug\UniversalTuringMachine.exe
+C:\Yos\FCI\4th Year\2nd Term\Computer Theory\Universal Turing Machine\UniversalTuringMachine\UniversalTuringMachine\obj\Debug\UniversalTuringMachine.pdb
